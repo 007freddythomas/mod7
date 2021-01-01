@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "freddythomas@gmail.com"
+  password: "Freddybechu7&"
+  token: "WiHBCkzidDBkh0zZgm8csxMIj"
